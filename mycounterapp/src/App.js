@@ -61,6 +61,7 @@ export default function Home() {
         <Web3Button contractAddress={contractAddress} action={decrementCounter}>
           Decrement Counter
         </Web3Button>
+        <p className="description">91813171 최병준</p>
       </main>
     </div>
   );
